@@ -1,5 +1,5 @@
 /*
-  If the user does not have a session saved in the server
+  If the user does cnot have a session saved in the server
 
   status 401
   {
